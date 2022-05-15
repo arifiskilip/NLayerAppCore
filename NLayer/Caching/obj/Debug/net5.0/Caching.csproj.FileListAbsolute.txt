@@ -1,0 +1,12 @@
+C:\Users\Arif\source\repos\NLayer\Caching\bin\Debug\net5.0\Caching.deps.json
+C:\Users\Arif\source\repos\NLayer\Caching\bin\Debug\net5.0\Caching.dll
+C:\Users\Arif\source\repos\NLayer\Caching\bin\Debug\net5.0\ref\Caching.dll
+C:\Users\Arif\source\repos\NLayer\Caching\bin\Debug\net5.0\Caching.pdb
+C:\Users\Arif\source\repos\NLayer\Caching\obj\Debug\net5.0\Caching.csproj.AssemblyReference.cache
+C:\Users\Arif\source\repos\NLayer\Caching\obj\Debug\net5.0\Caching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arif\source\repos\NLayer\Caching\obj\Debug\net5.0\Caching.AssemblyInfoInputs.cache
+C:\Users\Arif\source\repos\NLayer\Caching\obj\Debug\net5.0\Caching.AssemblyInfo.cs
+C:\Users\Arif\source\repos\NLayer\Caching\obj\Debug\net5.0\Caching.csproj.CoreCompileInputs.cache
+C:\Users\Arif\source\repos\NLayer\Caching\obj\Debug\net5.0\Caching.dll
+C:\Users\Arif\source\repos\NLayer\Caching\obj\Debug\net5.0\ref\Caching.dll
+C:\Users\Arif\source\repos\NLayer\Caching\obj\Debug\net5.0\Caching.pdb

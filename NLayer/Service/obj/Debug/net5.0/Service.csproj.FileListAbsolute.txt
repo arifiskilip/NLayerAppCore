@@ -1,0 +1,17 @@
+C:\Users\Arif\source\repos\NLayer\Service\bin\Debug\net5.0\Service.deps.json
+C:\Users\Arif\source\repos\NLayer\Service\bin\Debug\net5.0\Service.dll
+C:\Users\Arif\source\repos\NLayer\Service\bin\Debug\net5.0\ref\Service.dll
+C:\Users\Arif\source\repos\NLayer\Service\bin\Debug\net5.0\Service.pdb
+C:\Users\Arif\source\repos\NLayer\Service\bin\Debug\net5.0\Core.dll
+C:\Users\Arif\source\repos\NLayer\Service\bin\Debug\net5.0\Repository.dll
+C:\Users\Arif\source\repos\NLayer\Service\bin\Debug\net5.0\Repository.pdb
+C:\Users\Arif\source\repos\NLayer\Service\bin\Debug\net5.0\Core.pdb
+C:\Users\Arif\source\repos\NLayer\Service\obj\Debug\net5.0\Service.csproj.AssemblyReference.cache
+C:\Users\Arif\source\repos\NLayer\Service\obj\Debug\net5.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arif\source\repos\NLayer\Service\obj\Debug\net5.0\Service.AssemblyInfoInputs.cache
+C:\Users\Arif\source\repos\NLayer\Service\obj\Debug\net5.0\Service.AssemblyInfo.cs
+C:\Users\Arif\source\repos\NLayer\Service\obj\Debug\net5.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\Arif\source\repos\NLayer\Service\obj\Debug\net5.0\Service.csproj.CopyComplete
+C:\Users\Arif\source\repos\NLayer\Service\obj\Debug\net5.0\Service.dll
+C:\Users\Arif\source\repos\NLayer\Service\obj\Debug\net5.0\ref\Service.dll
+C:\Users\Arif\source\repos\NLayer\Service\obj\Debug\net5.0\Service.pdb
